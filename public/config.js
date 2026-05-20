@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Hypliq.com",
   "VITE_SEO_SITE_DESCRIPTION": "A fast and powerful decentralized exchange",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/hypliq-8530/",
+  "VITE_SEO_SITE_URL": "https://hypliq.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
@@ -37,7 +37,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_ANALYTICS_SCRIPT": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-LTBBK64BN9\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-LTBBK64BN9');\n</script>",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
